@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>LANDING WEB PAGE</title>
+<body>
+<header style="background-color:#800000" ><font color="#FF0000"><center>
+   CODING SNOW YOUTUBE CHANNEL INTRODUCTION
+            AND WEBSITE LAUNCHING</font></center>
+ </header>
+ <center><img src="cooding.png"></center>
+<section style="background-color:#ADFF2F">
+<p><u><font color="#FFOOFF"> ADVANTAGES OF OUR CONTENT:</font></u></p>
+<ol><font color="#800080">
+<li>USEFUL CONTENT ABOUT PROGRAMMING.</li>
+<li>VIDEOS RELATED TO LOGIC BUILDING.</li>
+<li>LIVE SESSIONS ON PROBLEM SOLVING.</li>
+<li>DETAILED EXPLANATION OF PROGRAMMING LANGUAGE.</li>
+<li>PODCASTS OF SUCCESSFUL PEOPLE.</li>
+</font>
+</ol>
+</section>
+<center><img src="image.jpg" width="600" height="300"></center>
+<section style="background-color:#0000FF" >
+<pre ><big>          SIGN UP TODAY
+  for cooding solutions and excercices<big></pre>
+<form>
+<input type="text" placeholder="Name">
+<br/>
+<input type="text" placeholder="Email Address">
+<br/>
+<input type="text" placeholder="Age">
+<input type="text" placeholder="Gender">
+<br/>
+<input type="Submit" value="sign up">
+<center><h1>LIKE ,SHARE AND DO SUBSCRIBE</h1></center>
+</form>
+</section>
+<img src="images.jpeg" height="400"> <img src="images (1).jpeg" height"1200" width="600">
+<center><pre style="background-color:#00FF00" ><font color="#FF0000">ALSO FOLLOW US ON:
+<image src="imagef.jpeg" height="80" width="100">
+Copyright 2023 BALASANI HARISH KUMAR|ALL RIGHTS RESERVED</font></pre></center>
+<footer style="background-color:#808080" >
+	<font color="#FFFF00"><h4>"LEARNING IS A CONSTANT PROCESS,AFTER ALL THINGS YOU HAVE TO DO IS TO TAKE A FIRST STEP TOWARDS YOUR GOAL AND MOVE WITH POSITIVE ATTITUDE."<h4></font>
+<footer>
+
+
+</body>
+</head>
+</html>
